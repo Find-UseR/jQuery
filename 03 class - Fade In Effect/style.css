@@ -1,0 +1,22 @@
+#item1 {
+    width: 150px;
+    height: 150px;
+    background: red;
+    display: none;
+}
+
+#item2 {
+    margin-top: 20px;
+    width: 150px;
+    height: 150px;
+    background: green;
+    display: none;
+}
+
+#item3 {
+    margin-top: 20px;
+    width: 150px;
+    height: 150px;
+    background: blue;
+    display: none;
+}
