@@ -1,0 +1,15 @@
+#button{
+    padding: 5px;
+    text-align: center;
+    background: red;
+    border: solid 1px black;
+    cursor: pointer;
+}
+
+#body{
+    padding: 70px;
+    display: none;
+    background: red;
+    border: solid 1px black;
+    text-align: center;
+}
