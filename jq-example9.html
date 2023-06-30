@@ -1,0 +1,17 @@
+<html>
+    <head>
+        <script src="../jquery/jquery-1.5.1.min.js"></script>
+    </head>
+    <body>
+        <p align="justify">This is a cat</p>
+        <button>Get Alignment</button>
+        <div style="border: 2px solid greenyellow;"></div>
+    </body>
+</html>
+
+<script>
+    $('button').click(function(){
+        var attach=$('p').attr("align");
+        $('div').text(attach);
+    });
+</script>
